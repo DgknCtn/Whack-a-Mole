@@ -1,40 +1,51 @@
-# Whack-a-Mole
+---
 
-Whack-a-Mole is a fun mobile game that tests your reflexes. The goal is to hit the moles that appear suddenly on the screen to achieve the highest score possible. In this time-limited game, you must hit as many moles as you can within a set time!
+# 🎯 Whack-a-Mole Game
 
-## Features
+A fast-paced mobile game designed to test your reflexes! Hit the moles as they pop up on the screen to rack up points and set a high score in this time-limited challenge!
 
-- Moles that appear on the screen instantaneously
-- Scoring and high score system
-- User-friendly interface
-- Replay option
+## 🌟 Features
 
-## How to Play
+- **Instantaneous Mole Pop-Ups**: Moles appear randomly for quick reaction time.
+- **Scoring System**: Track your score and aim to beat your high score.
+- **Simple and Fun UI**: Easy-to-navigate interface with a replay option to keep the fun going.
+- **Replayable Gameplay**: Start a new game instantly to challenge your previous score.
 
-1. Open the app to start the game.
-2. Tap on the moles that appear on the screen.
-3. When the time is up, your total score will be displayed.
-4. Play again to save your highest score!
+## 🕹 How to Play
 
-## Development
+1. **Start the Game**: Open the app to begin.
+2. **Hit the Moles**: Tap on the moles as they appear to gain points.
+3. **View Your Score**: At the end of each round, check your score.
+4. **Replay**: Try again to set a new high score!
 
-This project was developed using Swift. The game interface uses the UIKit framework to facilitate user interaction.
+## 🛠 Development
 
-### Requirements
+- Built using **Swift** for seamless and performant gameplay.
+- Utilizes the **UIKit** framework to manage the game’s interface and user interactions.
 
-- Xcode (latest version)
-- iOS 12.0 or later
+## 📋 Requirements
 
-### Installation
+- **Xcode** (latest version recommended)
+- **iOS 12.0** or later
 
-1. Clone this repository or download it as a ZIP.
-2. Open the `ViewController.swift` file in Xcode and make any necessary adjustments.
-3. Run the project.
+## 🚀 Installation
 
-## Contributing
+1. **Clone this repository**:
+   ```bash
+   git clone https://github.com/dgknctn/Whack-a-Mole.git
+   ```
+2. **Open the project** in Xcode.
+3. **Run the Project**: Launch the app on the iOS simulator or a connected device.
 
-If you would like to contribute, please open a pull request or share your suggestions directly.
+## 🤝 Contributing
 
-## License
+Contributions are welcome! To contribute:
+- Fork the project.
+- Create a branch for your feature (`git checkout -b feature/AmazingFeature`).
+- Commit your changes (`git commit -m 'Add some AmazingFeature'`).
+- Push to the branch (`git push origin feature/AmazingFeature`).
+- Open a pull request.
 
-This project is licensed under the MIT License. For more details, please see the [LICENSE](LICENSE) file.
+## 📜 License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
