@@ -38,3 +38,7 @@ If you would like to contribute, please open a pull request or share your sugges
 ## License
 
 This project is licensed under the MIT License. For more details, please see the [LICENSE](LICENSE) file.
+
+## Contact
+
+Doğukan Çetin - [LinkedIn]([https://www.linkedin.com/in/dogukanxcetin])
